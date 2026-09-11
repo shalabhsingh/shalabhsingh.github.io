@@ -68,6 +68,15 @@ p {
   margin: 15px 0;
 }
 
+blockquote {
+  margin: 1.8em 0;
+  border-left: 4px solid $darkGray;
+  padding: 0.1em 1em;
+  color: $gray;
+  font-size: 20px;
+  font-style: italic;
+}
+
 a {
   color: $blue;
   text-decoration: none;
