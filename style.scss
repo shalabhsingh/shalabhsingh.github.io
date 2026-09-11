@@ -70,10 +70,11 @@ p {
 
 blockquote {
   margin: 1.8em 0;
+  background-color: #f5f5f5;
   border-left: 4px solid $darkGray;
-  padding: 0.1em 1em;
-  color: $gray;
-  font-size: 20px;
+  padding: 10px 16px;
+  color: $darkGray;
+  font-size: 18px;
   font-style: italic;
 }
 
